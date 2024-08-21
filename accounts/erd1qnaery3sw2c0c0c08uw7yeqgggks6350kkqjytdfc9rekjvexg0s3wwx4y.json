@@ -1,6 +1,6 @@
 {
-  "name": "Ofero: xChapo",
-  "description": "The Ofero Network's Rewards Wallet",
+  "name": "Ofero: Treasury Box",
+  "description": "The Ofero Network's Treasury Rewards Wallet",
   "social": {
     "website": "https://www.ofero.network",
     "email": "contact@ofero.network",
@@ -22,7 +22,8 @@
     "ofero",
     "ofero network",
     "telegram",
-    "xChapo",
+    "treasury","
+    "rewards",
     "secure",
     "community"
   ],
